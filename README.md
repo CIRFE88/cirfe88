@@ -7,7 +7,7 @@ Together, we will go through a ton of crash courses and learn how to write code.
 Currently I enjoy working with React.js/Next.js, TailwindCSS, Node.js, Firebase
 
 
- I'm ibrahim Cirfe. A Software enginer from mogadishu,somalia 
+ ## I'm ibrahim Cirfe. A Software enginer from mogadishu,somalia 
  
- I'm a software enginer specializing in full-stack web developer
+ ## I'm a software enginer specializing in full-stack web developer
 
